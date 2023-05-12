@@ -53,5 +53,14 @@ aside{
     height: 500px;
     background: rgb(151, 147, 147);
     margin-top: 10px;
-    float: right;
+   float: right;
+}
+aside h2{
+    font-size: 40px;
+    text-align: center;
+    line-height: 500px;
+}
+footer{
+    background: black;
+    clear: both;
 }
